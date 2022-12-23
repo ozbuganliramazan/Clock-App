@@ -1,7 +1,7 @@
-<h1>sat tasarımı</h1>
+<h1>Clock App/h1>
 
 
-<p>Html, Css JavaScript Satt tasarımı</p>
+<p>Clock Application with HTML CSS Javascript/p>
 
 
 
